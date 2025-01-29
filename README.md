@@ -27,19 +27,33 @@ A C++ console-based Library Management System that allows librarians to manage b
 
 ## Project Structure
 LibraryManagementSystem/
+
 ├── include/
+
 │ ├── Book.h
+
 │ ├── Library.h
+
 │ └── Member.h
+
 ├── src/
+
 │ ├── Book.cpp
+
 │ ├── Library.cpp
+
 │ ├── Member.cpp
+
 │ └── main.cpp
+
 └── .vscode/
+
 ├── c_cpp_properties.json
+
 ├── launch.json
+
 ├── settings.json
+
 └── tasks.json
 
 
